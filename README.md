@@ -48,3 +48,12 @@ To get started with the Playplex.io , follow these steps:
     ```
 
 3. Open the `weatherapp.html` file in your browser.
+
+## License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Badges
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Weather-app)
+![GitHub issues](https://img.shields.io/github/issues/Animiiexe/Weather-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Animiiexe/Weather-app)
+![GitHub](https://img.shields.io/github/license/Animiiexe/Weather-app)
