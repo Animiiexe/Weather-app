@@ -15,14 +15,14 @@ The Weather App is a simple and intuitive web application that allows users to s
 
 ## Screenshots
 
-### Main Interface
-![Main Interface](./assets/cloud.png)
-
 ### Example of "Clear" Weather
-![Clear Weather](./assets/clear.png)
+![Clear Weather](./shots/osaka.png)
 
 ### Example of "Rainy" Weather
-![Rainy Weather](./assets/rain.png)
+![Rainy Weather](./shots/normal.png)
+
+###Example of "Error Query" Weather
+![Error](./shots/errorww.png)
 
 ## Getting Started
 
