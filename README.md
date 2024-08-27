@@ -21,7 +21,7 @@ The Weather App is a simple and intuitive web application that allows users to s
 ### Example of "Rainy" Weather
 ![Rainy Weather](./shots/normal.png)
 
-### Example of "Error Query" Weather
+### Example of "Error Query"
 ![Error](./shots/errorww.png)
 
 ## Getting Started
