@@ -34,7 +34,17 @@ You will need a web browser and a code editor to view and edit the files.
 
 ### Installation
 
-1. **Clone the repository**:
+## Installation
+To get started with the Playplex.io , follow these steps:
 
-   ```bash
-   git clone https://github.com/animiiexe/Weather-app.git
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Weather-app/playplex.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd weatherapp
+    ```
+
+3. Open the `weatherapp.html` file in your browser.
