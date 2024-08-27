@@ -32,23 +32,23 @@ async function checkWeather(city) {
         humidity.innerHTML = `${weather_data.main.humidity}%`;
         wind_speed.innerHTML = `${weather_data.wind.speed}Km/H`;
 
-        switch (weather_data.weather[0].main) {
-            case 'Clouds':
-                weather_img.src = "/weatherapp/assets/cloud.png";
-                break;
-            case 'Clear':
-                weather_img.src = "/weatherapp/assets/clear.png";
-                break;
-            case 'Rain':
-                weather_img.src = "/weatherapp/assets/rain.png";
-                break;
-            case 'Mist':
-                weather_img.src = "/weatherapp/assets/mist.png";
-                break;
-            case 'Snow':
-                weather_img.src = "/weatherapp/assets/snow.png";
-                break;
-        }
+switch (weather_data.weather[0].main) {
+    case 'Clouds':
+        weather_img.src = "/Weather-app/weatherapp/assets/cloud.png";
+        break;
+    case 'Clear':
+        weather_img.src = "/Weather-app/weatherapp/assets/clear.png";
+        break;
+    case 'Rain':
+        weather_img.src = "/Weather-app/weatherapp/assets/rain.png";
+        break;
+    case 'Mist':
+        weather_img.src = "/Weather-app/weatherapp/assets/mist.png";
+        break;
+    case 'Snow':
+        weather_img.src = "/Weather-app/weatherapp/assets/snow.png";
+        break;
+}
     } catch (error) {
         console.error("An error occurred while fetching weather data:", error);
         displayError();
